@@ -1,0 +1,28 @@
+ENLACES ESPECIALES:
+
+A UNA DIRECCION DE INTERNET:
+
+<A HREF="http://algoeninternet.com">ALGOENINTERNET</A>
+
+ENLACES DE UNA IMAGEN A UN SITIO 
+
+<A HREF=" #inicio"><img src="gifs/imagen.gif"></A>
+
+ENLACE ENTRE IMAGENES
+
+<a href="gifs/IMAGEN1.jpg"><img src="gifs/IMAGEN2.gif" ></a>
+
+ENLACE A UN CORREO
+
+<A HREF="mailto: alguien@empresa.com"> alguien@empresa.com </A>
+
+ENLACE PARA DESCARGAR UN FICHERO
+
+<A HREF="../zip/guiahtml.zip">guiahtml.zip</A>
+
+ENLACE PARA ABRIR UNA NUEVA VENTANA
+
+<a href="index.htm" target="nueva">Indice</a>
+
+TITLE
+<A HREF="http://www.htmlpoint.com" TITLE="El sitio italiano sobre el web publishing">Visita HTMLpoint</A>

@@ -1,0 +1,51 @@
+<!
+
+<A HREF="WWW.GOOGLE.COM"> Texto del enlace</A>
+
+>
+<HTML>
+<HEAD>
+<TITLE>Tecnologías Emergentes</TITLE>
+</HEAD>
+<BODY>
+<CENTER>
+<A NAME="inicio"> </A>
+<H1>EL MUNDO DE LA WEB</H1>
+Diferencia entre la web 1.0 2.0 y 3.0.<BR>
+<center>
+<blockquote>
+El World Wide Web (WWW) es un sistema que contiene una cantidad de información casi infinita.<br>
+Pero esta información debe estar ordenada de alguna forma de manera que sea posible encontrar lo que se busca.<br>
+La unidad básica donde está almacenada esta información son las páginas Web.<br>
+</blockquote>
+</center>
+<HR>
+<HR>
+<h2>WEB 1.0</h2>
+<p>WEB 1.0 : es de sólo lectura. El usuario no puede interactuar con el contenido de la página 
+(nada de comentarios, respuestas, citas, etc), estando totalmente limitado a lo que el Webmaster sube a ésta.</p>
+<HR>
+<h2>WEB 2.0</h2>
+<p>WEB2.0: permite a sus usuarios interactuar con otros usuarios o cambiar contenido del sitio web,<br> 
+en contraste a sitios web no-interactivos donde los usuarios se limitan a la visualización pasiva <br>
+de información que se les proporciona.</p>
+<HR>
+<h2>WEB 3.0</h2>
+
+<DIV ALIGN="LEFT">WEB 3.0: es un neologismo que se utiliza para describir la evolución del uso y la interacción en la red a través de diferentes caminos.</DIV> 
+
+<DIV ALIGN="RIGHT" >Ello incluye, la transformación de la red en una base de datos,<br> 
+un movimiento hacia hacer los contenidos accesibles por múltiples aplicaciones non-browser,<br> 
+el empuje de las tecnologías de inteligencia artificial, la web semántica, la Web Geoespacial</DIV>
+<HR>
+<HR>
+<br>
+<br>
+<br>
+
+<DIV ALIGN="RIGHT" ><h3>Tecnologías Emergentes<h3></DIV>
+<DIV ALIGN="RIGHT" ><h3>Estudiante: XXXXXX<h3></DIV>
+<DIV ALIGN="RIGHT" ><h3><A HREF="#inicio"> Ir al Inicio</A><h3></DIV>
+
+</BODY>
+</HTML>

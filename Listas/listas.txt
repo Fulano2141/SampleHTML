@@ -1,0 +1,7 @@
+preguntas
+
+--que inicie en 4 ---<ol start="4">  o <li value="4">
+
+<ol type="I">
+
+1,a,A,i,I

@@ -1,0 +1,22 @@
+/*Estilo para la alineación de textos*/
+.fl_left{
+	float:left;
+}
+.fl_right{
+	float:right;
+}
+/*Estilo para todo el documento*/
+body{
+	font-size:13px;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#FFF;
+	background-color: #000;
+}
+/*Estilo para los enlaces*/
+a:link{color:#FF0;}
+a:visited{color:#FF0;}
+/*Estilo para el pie*/
+footer{
+	display:block;
+	margin:10px;
+}

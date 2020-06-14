@@ -1,0 +1,180 @@
+<html>
+<head>
+	<title>Tipos de Bordes</title>
+<style type="text/css">
+div{
+	padding: 5px;
+}
+.bordeporlados{
+	border-top: 1px solid #ff9999;
+	border-right: 2px dotted #99ff99;	
+	border-bottom: 2px dashed #9999ff;
+	border-left: 4px double #666666;
+}
+
+div.bordesolido{
+	border-color: #aaaaaa;
+	border-width: 1px;
+	border-style: solid;
+}
+div.bordepunteado{
+	border: 1px dotted #ff8833;
+}
+div.bordedoble{
+	border: 9px double #990000;
+}
+
+div.bordedashed{
+	border: 1px dashed #660000;
+}
+
+div.bordegroove{
+	border: 5px groove #66cc66;
+}
+
+div.borderidge{
+	border: 10px ridge #6666cc;
+}
+
+div.bordeinset{
+	border: 10px inset #3333ff;
+	background-color: #0000ff;
+}
+
+div.bordeoutset{
+	border: 10px outset #cccccc;
+	background-color: #cccccc;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class=bordesolido>
+Esta capa tiene el borde sólido: 
+<br>
+div.bordesolido{
+<br>
+&nbsp;&nbsp;&nbsp;	border: 1px solid #aaaaaa;
+<br>
+}
+</div>
+
+<br>
+<br>
+<div class=bordeporlados>
+Este elemento tiene bordes distintos para cada lado.
+.bordeporlados{
+&nbsp;&nbsp;&nbsp;	border-top: 1px solid #ff9999;
+&nbsp;&nbsp;&nbsp;	border-right: 2px dotted #99ff99;	
+&nbsp;&nbsp;&nbsp;	border-bottom: 2px dashed #9999ff;
+&nbsp;&nbsp;&nbsp;	border-left: 3px double #666666;
+}
+</div>
+
+
+<br>
+<br>
+
+<div class=bordepunteado>
+Aquí he puesto un borde con línea de puntos...
+<br>
+div.bordepunteado{
+<br>
+&nbsp;&nbsp;&nbsp;	border: 2px dotted #ff8833;
+<br>
+}
+</div>
+
+<br>
+<br>
+
+<div class=bordedoble>
+Este elemento DIV tiene un borde doble (double), pero para verlo tienes que poner un ancho de borde mayor.
+<br>
+div.bordedoble{
+<br>
+&nbsp;&nbsp;&nbsp;	border: 3px double #990000;
+<br>
+}
+</div>
+
+<br>
+<br>
+
+<div class=bordedashed>
+Este DIV tiene el borde "dashed", que es como punteado, pero con el punto más largo.
+<br>
+div.bordedashed{
+<br>
+&nbsp;&nbsp;&nbsp;	border: 2px dashed #660000;
+<br>
+}
+</div>
+
+<br>
+<br>
+
+<div class=bordegroove>
+Aquí he puesto un borde tipo "groove", que crea una especie de relieve.
+<br>
+
+div.bordegroove{
+<br>
+&nbsp;&nbsp;&nbsp;	border: 5px groove #006600;
+<br>
+}
+</div>
+
+<br>
+<br>
+
+<div class=borderidge>
+En esta capa he puesto un borde tipo ridge
+<br>
+div.borderidge{
+<br>
+&nbsp;&nbsp;&nbsp;	border: 10px ridge #6666cc;
+<br>
+}
+</div>
+
+<br>
+<br>
+
+
+<div class=bordeinset>
+Tenemos aquí un borde inset, que también crea una especie de relieve como si el elemento estuviese hundido, combiando el borde en distintos tonos más claros u oscuros.
+<br>
+div.bordeinset{
+<br>
+&nbsp;&nbsp;&nbsp;	border: 10px inset #0000ff;
+<br>
+&nbsp;&nbsp;&nbsp;	background-color: #0000ff;
+<br>
+}
+</div>
+
+<br>
+<br>
+
+<div class=bordeoutset>
+Aquí tenemos un bordeoutset, que es como si el borde produciera un relieve que imita como si estuviera levantado. En este caso le he puesto un color de fondo para que se vea mejor el efecto.
+<br>
+div.bordeoutset{
+<br>
+&nbsp;&nbsp;&nbsp;	border: 10px outset #cccccc;
+<br>
+&nbsp;&nbsp;&nbsp;	background-color: #cccccc;
+<br>
+}
+
+</div>
+
+<br>
+<br>
+
+</body>
+</html>
