@@ -1,0 +1,18 @@
+ATRIBUTOS FRAMESET
+
+<FRAMESET COLS="xx, yy, zz, ..">
+<FRAMESET ROWS="xx, yy, zz, ..">
+
+<FRAMESET COLS="%20, %80">
+
+<FRAMESET ROWS="%10, %70, %20">
+
+<FRAMESET COLS="40, 600">
+
+<FRAMESET ROWS="100,*,100">
+
+<!-- Sin bordes -->
+
+<FRAMESET FRAMEBORDER=”0” FRAMESPACING=”0” BORDER=”0”
+COLS="xx, yy">
+

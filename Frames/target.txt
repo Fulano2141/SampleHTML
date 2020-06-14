@@ -1,0 +1,10 @@
+<!--El atributo target-->
+
+TARGET="nombre_dado_a_otro_frame"
+
+TARGET="_blank"
+
+TARGET="_self"
+
+TARGET="_top"
+

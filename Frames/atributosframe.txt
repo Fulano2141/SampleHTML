@@ -1,0 +1,15 @@
+<!--Atributos del Frame (Dentro de Frame)-->
+
+SRC="dirección"
+
+NAME="nombre_de_la_ventana"
+
+MARGINWIDTH="número"
+
+MARGINHEIGHT="número"
+
+SCROLLING="yes|no|auto"
+
+FRAMEBORDER="no"
+
+

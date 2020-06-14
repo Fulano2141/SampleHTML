@@ -1,0 +1,31 @@
+<!--No frames-->
+<HTML>
+<FRAMESET ....>
+<FRAME....>
+<FRAME....>
+<NOFRAMES>
+<BODY>
+[Aquí va lo que queremos que vean los usuarios con navegadores
+que no soportan frames]
+</BODY>
+</NOFRAMES>
+</FRAMESET>
+</HTML>
+
+
+<!--No frames-->
+<HTML>
+<HEAD>
+<TITLE>P&aacute;gina con frames</TITLE>
+</HEAD>
+<FRAMESET COLS="25%, 75%">
+<FRAME SRC="indice.html">
+<FRAME SRC="presentacion.html" NAME="principal">
+<NOFRAMES>
+<BODY>
+Estas utilizando un navegador que no soporta frames.
+<P><A HREF="pagina12.html">Pulsa para visitar mi p&aacute;gina</A>.
+</BODY>
+</NOFRAMES>
+</FRAMESET>
+</HTML>
